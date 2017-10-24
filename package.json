@@ -1,0 +1,26 @@
+{
+  "name": "big",
+  "version": "1.0.0",
+  "description": "battleships item generator -- makes battleships items in an easy to generate sort of way.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zentrx/battleshipsItemGenerator.git"
+  },
+  "author": "me and danny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zentrx/battleshipsItemGenerator/issues"
+  },
+  "homepage": "https://github.com/zentrx/battleshipsItemGenerator#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "express": "^4.16.2",
+    "react": "^16.0.0"
+  }
+}
