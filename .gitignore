@@ -60,3 +60,6 @@ typings/
 # sublime project files
 *.sublime-project
 *.sublime-workspace
+
+# bundled code
+www/bundle.js
